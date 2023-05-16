@@ -682,6 +682,155 @@
       "https://docs.microsoft.com/en-us/windows/win32/wic/dds-format-overview"
     ]
   },
+  "image/x-adobe-dng": {
+    "extensions": ["dng"],
+    "notes": "Adobe Raw digital negative file format",
+    "sources": [
+      "https://fr.wikipedia.org/wiki/Digital_Negative",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L10",
+      "https://gitlab.freedesktop.org/xdg/shared-mime-info/-/blob/2.1/data/freedesktop.org.xml.in#L4828"
+    ]
+  },
+  "image/x-canon-crw": {
+    "extensions": ["crw"],
+    "notes": "Canon Raw image file format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Camera_Image_File_Format",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L22"
+    ]
+  },
+  "image/x-canon-cr2": {
+    "extensions": ["cr2"],
+    "notes": "Canon Raw image file format (2nd version) is an extension of tiff",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L34"
+    ]
+  },
+  "image/x-espon-erf": {
+    "extensions": ["erf"],
+    "notes": "Epson raw image format is an extension of tiff",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L44"
+    ]
+  },
+  "image/x-fuji-raf": {
+    "extensions": ["raf"],
+    "notes": "fuji raw image format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L53"
+    ]
+  },
+  "image/x-kodak-dcr": {
+    "extensions": ["dcr"],
+    "notes": "kodac raw image format aka Digital Camera Raw",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L64"
+    ]
+  },
+  "image/x-kodak-k25": {
+    "extensions": ["k25"],
+    "notes": "kodac raw image format aka Kodac DC25",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L73"
+    ]
+  },
+  "image/x-kodak-kdc": {
+    "extensions": ["kdc"],
+    "notes": "kodac raw image format aka Kodak Digital Camera",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L82"
+    ]
+  },
+  "image/x-minolta-mrw": {
+    "extensions": ["mrw"],
+    "notes": "Minolta raw image format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L91"
+    ]
+  },
+  "image/x-nikon-nef": {
+    "extensions": ["nef"],
+    "notes": "Nikon raw image format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L102"
+    ]
+  },
+  "image/x-olympus-orf": {
+    "extensions": ["orf"],
+    "notes": "Olympus raw image format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L111"
+    ]
+  },
+  "image/x-panasonic-raw": {
+    "extensions": ["raw"],
+    "notes": "Panasonic raw image format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L127"
+    ]
+  },
+  "image/x-pentax-pef": {
+    "extensions": ["pef"],
+    "notes": "Pentax Electronic Format image format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L137"
+    ]
+  },
+  "image/x-sigma-x3f": {
+    "extensions": ["x3f"],
+    "notes": "Sigma raw image format for X3 Foveon",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L146"
+    ]
+  },
+  "image/x-sony-arw": {
+    "extensions": ["arw"],
+    "notes": "Sony alpha raw format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L179"
+    ]
+  },
+  "image/x-sony-srf": {
+    "extensions": ["srf"],
+    "notes": "Sony Raw format",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L161"
+    ]
+  },
+  "image/x-sony-sr2": {
+    "extensions": ["sr2"],
+    "notes": "Sony Raw format 2nd version",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raw_image_format",
+      "https://en.wikipedia.org/wiki/Comparison_of_graphics_file_formats",
+      "https://github.com/angryziber/gnome-raw-thumbnailer/blob/master/data/raw-thumbnailer.xml#L170"
+    ]
+  },
   "image/x-icon": {
     "compressible": true,
     "notes": "Usually a wrapper for .bmp formated images.",
