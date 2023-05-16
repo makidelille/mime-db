@@ -7566,6 +7566,15 @@
     "source": "apache",
     "extensions": ["3ds"]
   },
+  "image/x-adobe-dng": {
+    "extensions": ["dng"]
+  },
+  "image/x-canon-cr2": {
+    "extensions": ["cr2"]
+  },
+  "image/x-canon-crw": {
+    "extensions": ["crw"]
+  },
   "image/x-cmu-raster": {
     "source": "apache",
     "extensions": ["ras"]
@@ -7574,9 +7583,15 @@
     "source": "apache",
     "extensions": ["cmx"]
   },
+  "image/x-espon-erf": {
+    "extensions": ["erf"]
+  },
   "image/x-freehand": {
     "source": "apache",
     "extensions": ["fh","fhc","fh4","fh5","fh7"]
+  },
+  "image/x-fuji-raf": {
+    "extensions": ["raf"]
   },
   "image/x-icon": {
     "source": "apache",
@@ -7587,6 +7602,18 @@
     "source": "nginx",
     "extensions": ["jng"]
   },
+  "image/x-kodak-dcr": {
+    "extensions": ["dcr"]
+  },
+  "image/x-kodak-k25": {
+    "extensions": ["k25"]
+  },
+  "image/x-kodak-kdc": {
+    "extensions": ["kdc"]
+  },
+  "image/x-minolta-mrw": {
+    "extensions": ["mrw"]
+  },
   "image/x-mrsid-image": {
     "source": "apache",
     "extensions": ["sid"]
@@ -7596,9 +7623,21 @@
     "compressible": true,
     "extensions": ["bmp"]
   },
+  "image/x-nikon-nef": {
+    "extensions": ["nef"]
+  },
+  "image/x-olympus-orf": {
+    "extensions": ["orf"]
+  },
+  "image/x-panasonic-raw": {
+    "extensions": ["raw"]
+  },
   "image/x-pcx": {
     "source": "apache",
     "extensions": ["pcx"]
+  },
+  "image/x-pentax-pef": {
+    "extensions": ["pef"]
   },
   "image/x-pict": {
     "source": "apache",
@@ -7623,6 +7662,18 @@
   "image/x-rgb": {
     "source": "apache",
     "extensions": ["rgb"]
+  },
+  "image/x-sigma-x3f": {
+    "extensions": ["x3f"]
+  },
+  "image/x-sony-arw": {
+    "extensions": ["arw"]
+  },
+  "image/x-sony-sr2": {
+    "extensions": ["sr2"]
+  },
+  "image/x-sony-srf": {
+    "extensions": ["srf"]
   },
   "image/x-tga": {
     "source": "apache",
